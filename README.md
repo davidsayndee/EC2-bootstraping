@@ -20,4 +20,8 @@ When the EC2 instance is launched, a bootstrap script:
 - **Apache Web Server**
 
 ## 📁 Project Structure
+ec2-bootstrap-project/
+├── user-data.sh # Bash script for EC2 bootstrap
+├── README.md # Project overview and instructions
+└── screenshots/ # Optional: Screenshots of EC2 and web output
 
